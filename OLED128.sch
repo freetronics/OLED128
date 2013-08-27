@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Mon 20 May 2013 16:55:55 EST
+EESchema Schematic File Version 2  date Fri 19 Jul 2013 12:25:05 EST
 LIBS:freetronics_kicad_sch_lib
 LIBS:power
 LIBS:device
