@@ -13,6 +13,6 @@ Copyright (C) 2013 Freetronics Pty Ltd. Open Source Hardware, licensed under the
 
 [OLED128 Home Page](http://freetronics.com/oled128)
 
-[OLED128 QuickStart Guide](http://freetronics.com/oled128-quickstart-guide)
+[OLED128 QuickStart Guide](http://freetronics.com/pages/oled128-quickstart-guide)
 
 [FTOLED Arduino Library](https://github.com/freetronics/FTOLED)
